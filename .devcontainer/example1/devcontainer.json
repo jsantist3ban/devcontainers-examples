@@ -3,7 +3,8 @@
 
 {
     "name": "NodeJS-Web-App",
-    "image": "node:latest",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node",
+    //"image": "node:latest",
 
     // Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
